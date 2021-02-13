@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "‹div› tag is used for defining a section of your document. State True Or False.",
+      question: "â€¹divâ€º tag is used for defining a section of your document. State True Or False.",
       answers: {
         a: "True",
         b: "False"
@@ -98,32 +98,32 @@
     },
 
     {
-      question: "How we can set width and height in ‹div› tag.",
+      question: "How we can set width and height in â€¹divâ€º tag.",
       answers: {
-        a: "style="width:100px;height:100px;"",
-        b: "size="width:100px;height:100px;"",
-        c: "set="width:100;height:100px;"",
+        a: "style=width:100px;height:100px;",
+        b: "size=width:100px;height:100px;",
+        c: "set=width:100;height:100px;",
         d: "None of the above"
       },
       correctAnswer: "a"
     },
 	
 	{
-      question: "How we can set background color in ‹div› tag.",
+      question: "How we can set background color in â€¹divâ€º tag.",
       answers: {
-        a: "style="background-color:red"",
-        b: "style="backgroundcolor:red"",
-        c: "style="bg-color:red",
+        a: "style=background-color:red",
+        b: "style=backgroundcolor:red",
+        c: "style=bg-color:red",
         d: "None of the above"
       },
       correctAnswer: "a"
     },
 	
 	{
-      question: "How we can align text in ‹div› tag.",
+      question: "How we can align text in â€¹divâ€º tag.",
       answers: {
-        a: "align:"left"",
-        b: "align="left"",
+        a: "align:left",
+        b: "align=left",
         c: "Both(a)&(b)",
         d: "None of the above"
       },
