@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "‹div› tag can be used to provide layout of the web page. State True Or False.",
+      question: "â€¹divâ€º tag can be used to provide layout of the web page. State True Or False.",
       answers: {
         a: "True",
         b: "False"        
@@ -98,7 +98,7 @@
     },
 
     {
-      question: "Select the correct attribute of ‹div› tag for changing the percentage of background color.",
+      question: "Select the correct attribute of â€¹divâ€º tag for changing the percentage of background color.",
       answers: {
         a: "transparency",
         b: "opacity",
@@ -111,19 +111,19 @@
 	{
       question: "Select the correct attribute value for inserting two divisions side by side.",
       answers: {
-        a: "style='float:left'",
-        b: "style='float:side'",
-        c: "style='float:along',
+        a: "style=float:left",
+        b: "style=float:side",
+        c: "style=float:along",
         d: "None of the above"      
       },
       correctAnswer: "a"
     },
 	
 	{
-      question: "How we can add multiple tags in ‹div› tag.",
+      question: "How we can add multiple tags in â€¹divâ€º tag.",
       answers: {
-        a: "style='tag1;tag2;'",
-        b: "set='tag1tag2;'",
+        a: "style=tag1;tag2;",
+        b: "set=tag1tag2;",
         c: "Both(a)&(b)",
         d: "None of the above"
       },
