@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "‹div› tag is used for defining a section of your document. State True Or False.",
+      question: "Q1. ‹div› tag is used for defining a section of your document. State True Or False.",
       answers: {
         a: "True",
         b: "False"
@@ -89,7 +89,7 @@
     },
 
     {
-      question: "Div tag is Block level tag.",
+      question: "Q2. Div tag is Block level tag.",
       answers: {
         a: "True",
         b: "False"
@@ -98,7 +98,7 @@
     },
 
     {
-      question: "How we can set width and height in ‹div› tag.",
+      question: "Q3. How we can set width and height in ‹div› tag.",
       answers: {
         a: "style=width:100px;height:100px;",
         b: "size=width:100px;height:100px;",
@@ -109,7 +109,7 @@
     },
 	
 	{
-      question: "How we can set background color in ‹div› tag.",
+      question: "Q4. How we can set background color in ‹div› tag.",
       answers: {
         a: "style=background-color:red",
         b: "style=backgroundcolor:red",
@@ -120,7 +120,7 @@
     },
 	
 	{
-      question: "How we can align text in ‹div› tag.",
+      question: "Q5. How we can align text in ‹div› tag.",
       answers: {
         a: "align:left",
         b: "align=left",
