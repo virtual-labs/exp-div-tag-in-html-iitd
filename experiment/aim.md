@@ -2,5 +2,6 @@
 
 The Learner will be able to:
 
-- demonstrate working of ‹div› tag in HTML..
-- using ‹div› tag in HTML pages through proper syntax.
+- Demonstrate working of ‹div› tag in HTML.
+- Using ‹div› tag in HTML pages through proper syntax.
+
