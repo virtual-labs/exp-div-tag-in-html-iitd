@@ -10,7 +10,7 @@ The difference between the div tag and the span tag is that the div tag is used 
 ### 1.2 Syntax
 
 
-‹div style="attribute1:values;attribute2:values;"›Content‹/div›
+‹div attribute="property1:values;property2:values;"›Content‹/div›
 
 
 ‹div style="background-color:lightblue;width:100px;height:100px;"›Virtual Labs‹/div›
