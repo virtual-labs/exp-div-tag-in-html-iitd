@@ -94,7 +94,7 @@
         a: "True",
         b: "False"
       },
-      correctAnswer: "b"
+      correctAnswer: "a"
     },
 
     {
@@ -109,18 +109,18 @@
     },
 	
 	{
-      question: "Q4. Select the correct attribute value for inserting two divisions side by side.",
+      question: "Q4. Div tag is also known as.",
       answers: {
-        a: "style=float:left",
-        b: "style=float:side",
-        c: "style=float:along",
+        a: "Divisor tag",
+        b: "Division tag",
+        c: "Both",
         d: "None of the above"      
       },
-      correctAnswer: "a"
+      correctAnswer: "b"
     },
 	
 	{
-      question: "Q5. How we can add multiple tags in ‹div› tag.",
+      question: "Q5. How can we add multiple tags in ‹div› tag.",
       answers: {
         a: "style=tag1;tag2;",
         b: "set=tag1tag2;",
