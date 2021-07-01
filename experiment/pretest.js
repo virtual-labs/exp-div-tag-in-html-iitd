@@ -98,7 +98,7 @@
     },
 
     {
-      question: "Q3. How we can set width and height in ‹div› tag.",
+      question: "Q3. How can we set width and height in ‹div› tag.",
       answers: {
         a: "style=width:100px;height:100px;",
         b: "size=width:100px;height:100px;",
@@ -109,7 +109,7 @@
     },
 	
 	{
-      question: "Q4. How we can set background color in ‹div› tag.",
+      question: "Q4. How can we set background color in ‹div› tag.",
       answers: {
         a: "style=background-color:red",
         b: "style=backgroundcolor:red",
@@ -120,10 +120,10 @@
     },
 	
 	{
-      question: "Q5. How we can align text in ‹div› tag.",
+      question: "Q5. How can we align text in ‹div› tag.",
       answers: {
-        a: "align:left",
-        b: "align=left",
+        a: "align:'left'",
+        b: "align='left'",
         c: "Both(a)&(b)",
         d: "None of the above"
       },
