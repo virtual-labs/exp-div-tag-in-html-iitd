@@ -6,12 +6,12 @@
 	},
 	"correctAnswer": "a"
 }, {
-	"question": "Q2. Div tag is used to the group of various tags.",
+	"question": "Q2. Div tag is used to the group of various tags.State True Or False.",
 	"answers": {
 		"a": "True",
 		"b": "False"
 	},
-	"correctAnswer": "b"
+	"correctAnswer": "a"
 }, {
 	"question": "Q3. Select the correct attribute of ‹div› tag for changing the percentage of background color.",
 	"answers": {
@@ -22,14 +22,14 @@
 	},
 	"correctAnswer": "b"
 }, {
-	"question": "Q4. Select the correct attribute value for inserting two divisions side by side.",
+	"question": "Q4. Div tag is also known as.",
 	"answers": {
-		"a": "style=float:left",
-		"b": "style=float:side",
-		"c": "style=float:along",
+		"a": "Divisor tag",
+		"b": "Division tag",
+		"c": "Both",
 		"d": "None of the above"
 	},
-	"correctAnswer": "a"
+	"correctAnswer": "b"
 }, {
 	"question": "Q5. How we can add multiple tags in ‹div› tag.",
 	"answers": {
