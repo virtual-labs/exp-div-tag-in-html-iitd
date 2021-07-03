@@ -33,7 +33,7 @@
 }, {
 	"question": "Q5. How we can align text in ‹div› tag.",
 	"answers": {
-		"a": "align:left",
+		"a": "align:'left'",
 		"b": "align=left",
 		"c": "Both(a)&(b)",
 		"d": "None of the above"
