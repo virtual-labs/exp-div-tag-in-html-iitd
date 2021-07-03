@@ -89,7 +89,7 @@
     },
 
     {
-      question: "Q2. Div tag is used to the group of various tags.",
+      question: "Q2. Div tag is used to the group of various tags.State True Or False.",
       answers: {
         a: "True",
         b: "False"
