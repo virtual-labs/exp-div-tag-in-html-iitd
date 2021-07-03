@@ -1,6 +1,6 @@
 ## Post test
 <br>
-Q1. &lt;div&gt; tag can be used to provide layout of the web page. State True Or False<br>
+Q1. &lt;div&gt; tag can be used to provide layout of the web page. State True Or False.<br>
 <b>A  True<br></b>
 B   False<br>
 
@@ -8,7 +8,7 @@ Q2.  Div tag is used to the group of various tags. State True Or False.<br>
 <b>A  True<br></b>
 B   False<br>
 
-Q3. Select the correct attribute of ‹div› tag for changing the percentage of background color.<br>
+Q3. Select the correct attribute of &lt;div&gt; tag for changing the percentage of background color.<br>
 A  transparency<br>
 <b>B  opacity</b><br>
 C  percentage<br>
