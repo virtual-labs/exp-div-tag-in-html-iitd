@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "Q1. ‹div› tag can be used to provide layout of the web page. State True Or False.",
+      question: "Q1. &lt;div&gt; tag can be used to provide layout of the web page. State True Or False.",
       answers: {
         a: "True",
         b: "False"        
@@ -89,7 +89,7 @@
     },
 
     {
-      question: "Q2. Div tag is used to the group of various tags.State True Or False.",
+      question: "Q2. &lt;div&gt; tag is used to the group of various tags.State True Or False.",
       answers: {
         a: "True",
         b: "False"
@@ -98,18 +98,18 @@
     },
 
     {
-      question: "Q3. Select the correct attribute of ‹div› tag for changing the percentage of background color.",
+      question: "Q3. Select the correct attribute of &lt;div&gt; tag for changing the percentage of background color.",
       answers: {
-        a: "transparency",
-        b: "opacity",
-        c: "percentage",
+        a: "Transparency",
+        b: "Opacity",
+        c: "Percentage",
         d: "None of the above"       
       },
       correctAnswer: "b"
     },
 	
 	{
-      question: "Q4. Div tag is also known as.",
+      question: "Q4. &lt;div&gt; tag is also known as.",
       answers: {
         a: "Divisor tag",
         b: "Division tag",
@@ -120,7 +120,7 @@
     },
 	
 	{
-      question: "Q5. How can we add multiple tags in ‹div› tag.",
+      question: "Q5. How can we add multiple tags in ‹div› tag?",
       answers: {
         a: "style=tag1;tag2;",
         b: "set=tag1tag2;",
