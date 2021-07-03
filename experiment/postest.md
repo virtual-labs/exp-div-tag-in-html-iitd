@@ -15,7 +15,7 @@ C  Percentage<br>
 D  None of the above<br>
 
 
-Q4.  &lt;div&gt; is also known as _____.<br>
+Q4.  &lt;div&gt; tag is also known as _____.<br>
 A  Divisor tag<br>
 <b>B  Division tag</b><br>
 C  Both<br>
