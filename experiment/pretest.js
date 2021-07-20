@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "Q1. ‹div› tag is used for defining a section of your document. State True Or False.",
+      question: "Q1. &lt;div&gt; tag is used for defining a section of your document. State True Or False.",
       answers: {
         a: "True",
         b: "False"
@@ -89,7 +89,7 @@
     },
 
     {
-      question: "Q2. Div tag is Block level tag.",
+      question: "Q2. &lt;div&gt; tag is Block level tag.",
       answers: {
         a: "True",
         b: "False"
@@ -98,18 +98,18 @@
     },
 
     {
-      question: "Q3. How we can set width and height in ‹div› tag.",
+      question: "Q3. How can we set width and height in &lt;div&gt; tag?",
       answers: {
-        a: "style=width:100px;height:100px;",
-        b: "size=width:100px;height:100px;",
-        c: "set=width:100;height:100px;",
+        a: "style=width:100px; height:100px;",
+        b: "size=width:100px; height:100px;",
+        c: "set=width:100; height:100px;",
         d: "None of the above"
       },
       correctAnswer: "a"
     },
 	
 	{
-      question: "Q4. How we can set background color in ‹div› tag.",
+      question: "Q4. How can we set background color in &lt;div&gt; tag?",
       answers: {
         a: "style=background-color:red",
         b: "style=backgroundcolor:red",
@@ -120,10 +120,10 @@
     },
 	
 	{
-      question: "Q5. How we can align text in ‹div› tag.",
+      question: "Q5. How can we align text in &lt;div&gt; tag?",
       answers: {
-        a: "align:left",
-        b: "align=left",
+        a: "align:'left'",
+        b: "align='left'",
         c: "Both(a)&(b)",
         d: "None of the above"
       },
