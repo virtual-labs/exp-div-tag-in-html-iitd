@@ -19,8 +19,8 @@ The difference between the div tag and the span tag is that the div tag is used 
 ### 1.3 Attributes of ‹div› tag
 
 |	Attribute   |     Value      |  Description    |
-|----------|:-------------:|------:|
-|	align	 |   left, right, center	 | used to align the content inside a ‹div› tag. This attribute is not supported in HTML5. CSS text-align property is used instead. |
+|:----------|:-------------|:------|
+|	align	 |   left, right, center	 | used to align the content inside a ‹div› tag. This attribute is not supported in HTML5.<br> CSS text-align property is used instead. |
   	
   
 #### Note: The ‹div› tag also supports the Global attributes and the Event Attributes.
