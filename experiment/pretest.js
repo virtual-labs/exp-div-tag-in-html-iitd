@@ -100,9 +100,9 @@
     {
       question: "Q3. How can we set width and height in &lt;div&gt; tag?",
       answers: {
-        a: "style=width:100px; height:100px;",
+        a: "'style=width:100px; height:100px;'",
         b: "size=width:100px; height:100px;",
-        c: "set=width:100; height:100px;",
+        c: "'set=width:100; height:100px;'",
         d: "None of the above"
       },
       correctAnswer: "a"
@@ -112,8 +112,8 @@
       question: "Q4. How can we set background color in &lt;div&gt; tag?",
       answers: {
         a: "style=background-color:red",
-        b: "style=backgroundcolor:red",
-        c: "style=bg-color:red",
+        b: "'style=backgroundcolor:red'",
+        c: "'style=bg-color:red'",
         d: "None of the above"
       },
       correctAnswer: "a"
