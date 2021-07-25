@@ -15,8 +15,6 @@ Q3. How can we set width and height in &lt;div&gt; tag?<br>
 B size="'width:100px; height:100px;'"<br>
 C set="'width:100; height:100px;'"<br>
 D None of the above<br>
-
-Q4. How can we set background color in &lt;div&gt; tag?<br>
 <b>A  style="background-color:red"<br></b>
 B  style="'backgroundcolor:red'"<br>
 C  style="'bg-color:red'"<br>
