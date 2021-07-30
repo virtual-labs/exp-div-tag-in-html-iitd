@@ -1,6 +1,6 @@
 ### These steps will be followed on the simulator
 
-1. The experiment begins with previewing the output of ‹div› tag in Preview Section given at the top of the Simulator by giving the values for different attributes like text and align alongwith the properties and values in style attribute for inline CSS, in Simulator.
+1. The experiment begins with previewing the output of ‹div› tag in Preview Section given at the top of the Simulator by giving the values for different attributes like text and align along with the properties and values in style attribute for inline CSS, in Simulator.
 
 2. After previewing the output we can see the syntax of ‹div› tag in adjacent the Syntax Section.
 
