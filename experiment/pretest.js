@@ -123,11 +123,11 @@
       question: "Q5. How can we align text in &lt;div&gt; tag?",
       answers: {
         a: "align:'left'",
-        b: "align='left'",
+        b: "'align=left'",
         c: "Both(a)&(b)",
         d: "None of the above"
       },
-      correctAnswer: "b"
+      correctAnswer: "a"
     },
   ];
 
