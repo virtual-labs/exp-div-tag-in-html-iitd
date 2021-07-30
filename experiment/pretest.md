@@ -21,7 +21,7 @@ C  style="'bg-color:red'"<br>
 D  None of the above<br>
 
 Q5.How we can align text in &lt;div&gt; tag?<br>
-<b>A  align:"left";</b><br>
+<b>A  align:"left"</b><br>
 B  "align=left"<br>
 C  Both(a)&(b)<br>
 D  None of the above<br>
